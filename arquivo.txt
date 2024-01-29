@@ -1,0 +1,3 @@
+Um text qualquer nesse arquivo.
+ssh-keygen -t rsa -C "gabrielue37@gmail.com"
+/c/Users/Gabriel/.ssh/github.pub
